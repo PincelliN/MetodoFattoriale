@@ -1,11 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine(factorial(0));
-Console.WriteLine(factorial(1));
-Console.WriteLine(factorial(2));
-Console.WriteLine(factorial(3));
-Console.WriteLine(factorial(4));
-Console.WriteLine(factorial(5));
+// chiedo al utente di inserire un parametro
+Console.Write("Inserisci un numero intero: ");
+
+
 
 
 static int factorial(int x)

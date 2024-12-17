@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoFattoriale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c31f494aa095d47dc7e34a51673a344148150684")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6aed442f9ead7448b27fc208d09f19878e1f162")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoFattoriale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoFattoriale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

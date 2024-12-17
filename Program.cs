@@ -16,7 +16,7 @@ static int factorial(int x)
         //con x = 0 otteniamo uno e usciamo dal metodo
         return 1;
     }
-    //qui il metodo factorial  richiama se stesso fino a quando il parametro passato non e 1
+    //qui il metodo factorial  richiama se stesso fino a quando il parametro passato non e 0
     //se x parte con il valore di 5  il metodo factorial retituira 5*4*3*2*1*1;
     return x * factorial(--x);
 

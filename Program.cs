@@ -3,7 +3,7 @@
 // chiedo al utente di inserire un parametro
 Console.Write("Inserisci un numero intero: ");
 
-
+int x = Convert.ToInt32(Console.ReadLine());
 
 
 static int factorial(int x)

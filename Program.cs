@@ -1,9 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 // chiedo al utente di inserire un parametro
-Console.Write("Inserisci un numero intero: ");
+Console.Write("Inserisci un numero : ");
 
+//leggi e  converti in intero  ciò che inserisce l'utente
 int x = Convert.ToInt32(Console.ReadLine());
+
+//scrivi il fattoriale 
+Console.WriteLine(factorial(x));
 
 
 static int factorial(int x)

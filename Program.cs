@@ -7,7 +7,7 @@ Console.Write("Inserisci un numero : ");
 int x = Convert.ToInt32(Console.ReadLine());
 
 //scrivi il fattoriale 
-Console.WriteLine(factorial(x));
+Console.WriteLine($"il fattoriale di {x} è : {factorial(x)}");
 
 
 static int factorial(int x)
